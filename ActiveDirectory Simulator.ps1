@@ -94,7 +94,7 @@ Function Disable-CompanyUser {
 }
 
 # ----------------------------------------------------------------------
-# Execution Instructions (Uncomment to test in a lab environment)
+# Execution Instructions(Uncomment to test in a lab environment)
 # ----------------------------------------------------------------------
 # New-CompanyUser
 # Add-UserToSecurityGroups
