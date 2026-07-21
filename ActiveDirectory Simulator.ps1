@@ -84,7 +84,7 @@ Function Reset-UserAccount {
 # ----------------------------------------------------------------------
 Function Disable-CompanyUser {
     param (
-        [string]$Username = "sconnor"
+        [string]$Username 
     )
 
     Write-Host "[!] Disabling account $Username for offboarding..." -ForegroundColor Red
